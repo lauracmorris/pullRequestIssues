@@ -3,5 +3,3 @@ This is a new text file.
 It is new.
 
 newFunction branch
-
-merging into main
